@@ -1,0 +1,30 @@
+body{
+    
+    background-image: url(../Images/170757-OVQW0N-79.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.title1{
+    
+    text-align: center;
+    color: rgb(19, 188, 58);
+    margin-top: 100px;
+    display: block;
+    font-weight: 1000;
+    font-family: 'Roboto', sans-serif;
+
+    
+    
+    
+}
+
+.subtitle{
+    
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 30px;
+}

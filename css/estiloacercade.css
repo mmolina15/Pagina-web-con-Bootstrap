@@ -1,0 +1,29 @@
+body{
+    
+    background-image: url(../Images/170757-OVQW0N-79.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+
+.title{
+    
+    margin-top: 50px;
+    font-family: serif;
+    font-weight: 1000;
+    
+}
+
+.mision {
+    margin-top: 50px;
+    font-family: serif;
+    font-weight: 1000;
+
+}
+
+.vision{
+    font-family: serif;
+    font-weight: 1000;
+}
